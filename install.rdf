@@ -9,6 +9,7 @@
 
 <em:id>levena_evenas@mozilla.org</em:id>
 <em:type>2</em:type>
+<em:name>helloworld</em:name>
 <em:version>1.0.0<em:version>
 <em:targetApplication>
 <Description>
